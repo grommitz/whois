@@ -1,4 +1,12 @@
 # WHOIS
+
+## My Fork
+
+In my fork I have added a pom.xml and put the code into the normal maven
+structure. I've added a unit test for the parser but so far I can't
+get any results - it always says "Empty data!" and nothing is extracted
+in the result hash.
+
 ## About
 Statistical WHOIS parser. A rule-based one that is used to label the training data is also included. Please see [SWIP](http://www.sysnet.ucsd.edu/projects/whois/) for more details.
 
